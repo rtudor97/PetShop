@@ -1,4 +1,6 @@
-public class Pet {
+package petshop.store;
+
+public abstract class Pet {
     private String name;
     private Integer age;
     private Integer idCount = 0;
@@ -36,7 +38,7 @@ public class Pet {
 
     @Override
     public String toString(){
-        return name + " " + age + "ID: " + petIdNumber;
+        return name + " " + age + " ID: " + petIdNumber;
     }
 
 }

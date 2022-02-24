@@ -1,4 +1,4 @@
-package store;
+package petshop.store;
 
 public class PetStore {
 }

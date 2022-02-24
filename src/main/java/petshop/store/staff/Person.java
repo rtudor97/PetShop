@@ -1,4 +1,4 @@
-package staff;
+package petshop.store.staff;
 
 public abstract class Person {
     private String name;
