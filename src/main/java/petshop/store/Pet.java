@@ -1,6 +1,7 @@
 package petshop.store;
 
 public abstract class Pet {
+
     private String name;
     private Integer age;
     private Integer idCount = 0;
