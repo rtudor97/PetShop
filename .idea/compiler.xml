@@ -9,5 +9,8 @@
         <module name="PetShop" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="PetShop" target="13" />
+    </bytecodeTargetLevel>
   </component>
 </project>
