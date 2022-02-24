@@ -1,7 +1,11 @@
+<<<<<<< HEAD:src/main/java/petshop/store/Pet.java
 package petshop.store;
 
 public abstract class Pet {
 
+=======
+public abstract class Pet {
+>>>>>>> feature/petshopcustomer:src/main/java/Pet.java
     private String name;
     private Integer age;
     private Integer idCount = 0;

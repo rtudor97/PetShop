@@ -1,8 +1,5 @@
-<<<<<<< HEAD:src/main/java/petshop/store/Pet.java
-package petshop.store;
-=======
 package store;
->>>>>>> feature/Dogs:src/main/java/store/Pet.java
+
 
 public abstract class Pet {
     private String name;
